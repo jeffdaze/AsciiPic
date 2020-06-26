@@ -1,0 +1,11 @@
+Making a quick tool for my gamejam gamejam
+
+reference:
+Want to use this as a neat rendering technique:
+http://paulbourke.net/dataformats/asciiart/
+
+will generate some images for different parts and then use that technique to render them as ascii
+
+This font might help:
+http://strlen.com/square/
+https://fonts.google.com/specimen/VT323?category=Monospace

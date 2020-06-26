@@ -6,6 +6,10 @@ http://paulbourke.net/dataformats/asciiart/
 
 will generate some images for different parts and then use that technique to render them as ascii
 
+an excellent note here!
+https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image
+
+
 This font might help:
 http://strlen.com/square/
 https://fonts.google.com/specimen/VT323?category=Monospace

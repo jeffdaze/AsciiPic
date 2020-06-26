@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AsciiPic</title>
+  <style>
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+    body,html{
+      margin:0;
+      padding:0;
+
+    }
+    PRE{
+      font-family: 'VT323', monospace;
+      font-size: 8px;
+    }
+
+    .inputRow{
+      margin: 10px;
+    }
+
+    #imageSource{
+      width:400px;
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+<div class="inputRow">
+Render an image from a URL in Ascii: <input type="text" id="imageSource"><button id="render">Render as ASCII!</button>
+</div>
+  <pre id="view"></pre>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -13,3 +13,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image
 This font might help:
 http://strlen.com/square/
 https://fonts.google.com/specimen/VT323?category=Monospace
+
+
+next steps:
+-render some imagery in realtime perhaps?
+-see about creating animation in the pre text...

@@ -18,3 +18,7 @@ https://fonts.google.com/specimen/VT323?category=Monospace
 next steps:
 -render some imagery in realtime perhaps?
 -see about creating animation in the pre text...
+
+Future improvements:
+-add animation?
+-some kind of 'curses' style system within the rendered image?
